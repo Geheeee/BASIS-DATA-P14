@@ -1,0 +1,11 @@
+Pentingnya Kebijakan Akses: Mengelola hak akses dengan perintah seperti GRANT, REVOKE, dan VIEW memastikan pengguna hanya dapat mengakses data yang relevan untuk tugas mereka.
+
+Penerapan Sistem yang Berlapis: Kombinasi mekanisme DAC, MAC, RBAC, enkripsi, dan monitoring memperkuat keamanan basis data, baik untuk melindungi dari ancaman internal maupun eksternal.
+
+Mitigasi Ancaman: Perhatian khusus harus diberikan untuk mencegah serangan SQL injection melalui validasi input dan penggunaan parameterized queries.
+
+Peran Administrator Basis Data (DBA): Administrator bertanggung jawab untuk:
+
+Menetapkan kebijakan keamanan.
+Memantau log dan aktivitas pengguna.
+Melakukan tindakan korektif jika ditemukan pelanggaran.
